@@ -1,0 +1,33 @@
+{
+        "anytime" : [
+                "Que sexy pintes avui!",
+                "Avui és un dia increïble!",
+                "Marques la diferència",
+                "Un somriure preciós, per un bonic dia",
+                "Estàs mirant el mirall?",
+                "El mirall diu: 'hola'",
+                "Has vist que guapo és el meu creador?",
+                "El mirall diu: 'Visca el Sapalomera!'"
+        ],
+        "morning" : [
+                "El teu cabell és impressionant avui!",
+                "Comenceu el dia amb un somriure",
+                "Serà un bonic dia!",
+                "Estas increible!",
+                "Preparat per a un dia impressionant!
+"
+        ],
+        "afternoon" : [
+                "Acabeu la feina ...",
+                "Tarda, ni matí, ni migdia",
+                "Aquest dia és genial",
+                "Gairebé a l’hora de sopar!"
+        ],
+        "evening" : [
+                "Només algunes trucades per fer ...",
+                "Bon appétit",
+                "Descansa",
+                "Marcaràs la diferencia",
+                "T’ha agradat el teu sopar?"
+        ]
+}
